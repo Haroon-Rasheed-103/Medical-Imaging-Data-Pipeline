@@ -1,5 +1,5 @@
 (Model which did not give good results)
-🏥 Medical Imaging & Clinical Data Integration Pipeline
+# 🏥 Medical Imaging & Clinical Data Integration Pipeline
 
 ## 📌 Project Overview
 This repository contains the data engineering layer and processing infrastructure for my **Final Year University Project**. The objective of this system is to ingest, clean, and unify two completely different data types—unstructured volumetric medical images and structured clinical text profiles—into a single, high-performance training pipeline for predictive care.
